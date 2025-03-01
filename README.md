@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ciprian</h1>
 <h3 align="center">Passionate Front-End & Full-Stack Developer from Brașov | Crafting Engaging Web & Game Experiences</h3>
+<img src="https://raw.githubusercontent.com/kiprinel05/kiprinel05/output/snake.svg" alt="Snake animation" />
 
 - 🔭 I’m currently working on **ECHO CITY**
 
