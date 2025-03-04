@@ -8,7 +8,7 @@ I'm a passionate developer from **Brașov**, dedicated to crafting engaging and 
 ### 🛠️ About Me
 - 🔭 Currently working on **ECHO CITY**, an exciting new project.
 - 🌱 Exploring **Unreal Engine** to enhance my game development skills.
-- 👨‍💻 Check out my projects: [GitHub Projects](https://github.com/kiprinel05?tab=projects)
+- 👨‍💻 Check out my projects: [GitHub Projects](https://github.com/kiprinel05?tab=repositories)
 - 📫 Reach me at **ciprian.dumitrasc@gmail.com**
 
 ---
