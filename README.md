@@ -1,7 +1,10 @@
 ## 👋 Hello, I'm Ciprian!  
-### 🚀 Front-End & Full-Stack Developer | Web & Game Enthusiast
+### 🚀 Front-End, Full-Stack & Software Developer | Game Enthusiast
 
-I'm a passionate developer from **Brașov**, dedicated to crafting engaging and immersive digital experiences. Whether it's building dynamic web applications or developing interactive games, I love pushing the boundaries of technology. 
+ I'm an enthusiastic and determined Front-End, Full-Stack, Software, and Game Developer from Brașov with a strong interest in learning and finding new technology. I adore building digital experiences — be it web application development, software creation, or game development. Every project is an opportunity to learn, improve, and push the boundaries of what I can accomplish.
+
+###
+
 
 ---
 
