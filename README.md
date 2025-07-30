@@ -1,18 +1,17 @@
 ## 👋 Hello, I'm Ciprian!  
-### 🚀 Front-End, Full-Stack & Software Developer | Game Enthusiast
 
- I'm an enthusiastic and determined Front-End, Full-Stack, Software, and Game Developer from Brașov with a strong interest in learning and finding new technology. I adore building digital experiences — be it web application development, software creation, or game development. Every project is an opportunity to learn, improve, and push the boundaries of what I can accomplish.
-
-###
-
+I'm a passionate developer from Brașov who loves building digital experiences - whether it's software, web apps, or games. I'm always eager to learn, improve, and push my limits.
 
 ---
 
 ### 🛠️ About Me
-- 🔭 Currently working on **ECHO CITY**, an exciting new project.
-- 🌱 Exploring **Unreal Engine** to enhance my game development skills.
-- 👨‍💻 Check out my projects: [GitHub Projects](https://github.com/kiprinel05?tab=repositories)
-- 📫 Reach me at **ciprian.dumitrasc@gmail.com**
+
+* 🌱 Exploring and learning **Angular** + **Three.js** to enhance web development.
+* 🎧 Passionate about music production — I enjoy making beats in FL Studio.
+* 👨‍💻 Check out my projects: [GitHub Projects](https://github.com/kiprinel05?tab=repositories)
+* 📫 Reach me at **[ciprian.dumitrasc@gmail.com](mailto:ciprian.dumitrasc@gmail.com)**
+
+---
 
 ---
 
@@ -34,6 +33,7 @@
 ### ⚙️ Tech Stack & Tools
 
 #### 🔹 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
@@ -54,6 +54,8 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![QT](https://img.shields.io/badge/QT-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge\&logo=jetpackcompose\&logoColor=white)
 
 #### 🔹 Platforms & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -61,10 +63,10 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 #### 🔹 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 
 ---
 
