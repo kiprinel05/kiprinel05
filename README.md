@@ -17,9 +17,15 @@ I'm a passionate developer from Brașov who loves building digital experiences -
 
 ### 🧑‍💼 Experience
 
-* **Intern - Waters Romania**
+* **Summer Intern - Waters Romania**
 
   *Worked with Angular & .NET during the summer internship program.*
+
+
+* **Internship - Waters Romania**
+
+  *Worked with Angular on Waters projects during the internship.*
+
 
 ---
 
